@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectUniqueName": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "projectName": "SistemaInventario.Utilidades",
-      "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "packagesPath": "C:\\Users\\mikis\\.nuget\\packages\\",
-      "outputPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Utilidades\\obj\\",
+      "outputPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

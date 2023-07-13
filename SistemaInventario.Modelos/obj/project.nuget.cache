@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQPmjH+FyNaQ29NkCUf9lyptYrReEgcq4dk7PBeULhMDFJLHpNhUYxddEm48LzutjcKyDUV4HyMpJ+ORvtvzUg==",
+  "dgSpecHash": "76m+51Ko20F9s4+wvZQn10164uFgv083MVDpeO3A5jg7xdRdJFIhGplI31j58VNmLmL8J8XXaGHJf/S2X6vFZQ==",
   "success": true,
-  "projectFilePath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+  "projectFilePath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

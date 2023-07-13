@@ -3671,11 +3671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectUniqueName": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "projectName": "SistemaInventario.AccesoDatos",
-      "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\mikis\\.nuget\\packages\\",
-      "outputPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.AccesoDatos\\obj\\",
+      "outputPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3695,11 +3695,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7.0\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }
