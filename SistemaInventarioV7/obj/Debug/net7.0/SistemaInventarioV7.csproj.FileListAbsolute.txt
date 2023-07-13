@@ -1,3 +1,11 @@
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.csproj.AssemblyReference.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.AssemblyInfoInputs.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.AssemblyInfo.cs
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.csproj.CoreCompileInputs.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.MvcApplicationPartsAssemblyInfo.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.RazorAssemblyInfo.cache
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.RazorAssemblyInfo.cs
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\appsettings.Development.json
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\appsettings.json
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\SistemaInventarioV7.staticwebassets.runtime.json
@@ -540,15 +548,7 @@ D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debu
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.csproj.AssemblyReference.cache
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.GeneratedMSBuildEditorConfig.editorconfig
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.AssemblyInfoInputs.cache
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.AssemblyInfo.cs
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.csproj.CoreCompileInputs.cache
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.MvcApplicationPartsAssemblyInfo.cs
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.MvcApplicationPartsAssemblyInfo.cache
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.RazorAssemblyInfo.cache
-D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.RazorAssemblyInfo.cs
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\staticwebassets\msbuild.SistemaInventarioV7.Microsoft.AspNetCore.StaticWebAssets.props
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemaInventarioV7.props
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemaInventarioV7.props
