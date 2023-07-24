@@ -29,8 +29,8 @@ namespace SistemaInventarioV7.Areas.Admin.Controllers
             {
                 Producto = new Producto(),
                 CategoriaLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Categoria"),
-                MarcaLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Marca")
-            //    PadreLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Producto")
+                MarcaLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Marca"),
+                PadreLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Producto")
             };
 
             if (id == null)
@@ -108,7 +108,7 @@ namespace SistemaInventarioV7.Areas.Admin.Controllers
             } //If not Valid
             productoVM.CategoriaLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Categoria");
             productoVM.MarcaLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Marca");
-           // productoVM.PadreLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Producto");
+            productoVM.PadreLista = _unidadTrabajo.Producto.ObtenerTodosDropdownLista("Producto");
             return View(productoVM);
         }
 
