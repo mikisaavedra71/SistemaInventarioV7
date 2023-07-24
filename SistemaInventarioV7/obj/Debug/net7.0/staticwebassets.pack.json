@@ -13,6 +13,34 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\8e7da295-aa7c-4fc6-8bdb-c84c339a5b08.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\8e7da295-aa7c-4fc6-8bdb-c84c339a5b08.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\b7b4567f-72f0-46c2-a3e5-30fd4a8c7949.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\b7b4567f-72f0-46c2-a3e5-30fd4a8c7949.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\c2041c79-0320-4e8d-9158-16c474a49512.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\c2041c79-0320-4e8d-9158-16c474a49512.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\d73c78ef-4f51-47a6-8609-992ddeb488a3.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\d73c78ef-4f51-47a6-8609-992ddeb488a3.JPG"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\imagenes\\producto\\d7a7a7c8-7ba7-47e2-b752-39ebb76f728a.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\d7a7a7c8-7ba7-47e2-b752-39ebb76f728a.JPG"
+    },
+    {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +51,10 @@
     {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "D:\\MSAAVEDRA\\PROYECTOS_NET_2022\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\site.js",
