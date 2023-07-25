@@ -43,13 +43,7 @@ namespace SistemaInventario.Modelos
         [ForeignKey("MarcaId")]
         public Marca Marca {get;set;}
         public int? PadreId { get; set; }
-
         public virtual Producto Padre { get; set; }
-
-
-
-
-
 
 
     }
