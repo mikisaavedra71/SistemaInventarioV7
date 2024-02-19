@@ -43,6 +43,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             Inventario = new InventarioRepositorio(_db);
             InventarioDetalle = new InventarioDetalleRepositorio(_db);
             KardexInventario = new KardexInventarioRepositorio(_db);
+            Compania = new CompaniaRepositorio(_db);
         }
         
         public void Dispose()
