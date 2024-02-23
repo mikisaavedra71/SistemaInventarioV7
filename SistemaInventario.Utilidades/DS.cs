@@ -5,6 +5,7 @@
         public const string Exitosa = "Exitosa";
         public const string Error = "Error";
         public const string ImagenRuta = @"\imagenes\producto\";
+        public const string ssCarroCompras = "Sesion Carro Compras";
 
         public const string Role_Admin = "Admin";
         public const string Role_Cliente = "Cliente";
