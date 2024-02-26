@@ -573,3 +573,4 @@ D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\obj\Debu
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Rotativa\Windows\wkhtmltoimage.exe
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Rotativa\Windows\wkhtmltopdf.exe
 D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Rotativa.AspNetCore.dll
+D:\MSAAVEDRA\PROYECTOS_NET_2022\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Stripe.net.dll

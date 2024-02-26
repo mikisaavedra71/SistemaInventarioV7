@@ -251,7 +251,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Bodegas");
+                    b.ToTable("Bodegas", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.BodegaProducto", b =>
@@ -277,7 +277,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("ProductoId");
 
-                    b.ToTable("BodegasProductos");
+                    b.ToTable("BodegasProductos", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.CarroCompra", b =>
@@ -304,7 +304,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("UsuarioAplicacionId");
 
-                    b.ToTable("CarroCompras");
+                    b.ToTable("CarroCompras", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.Categoria", b =>
@@ -330,7 +330,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categorias");
+                    b.ToTable("Categorias", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.Compania", b =>
@@ -394,7 +394,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("CreadoPorId");
 
-                    b.ToTable("Companias");
+                    b.ToTable("Companias", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.Inventario", b =>
@@ -427,7 +427,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("UsuarioAplicacionId");
 
-                    b.ToTable("Inventarios");
+                    b.ToTable("Inventarios", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.InventarioDetalle", b =>
@@ -456,7 +456,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("ProductoId");
 
-                    b.ToTable("InventarioDetalles");
+                    b.ToTable("InventarioDetalles", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.KardexInventario", b =>
@@ -507,7 +507,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("UsuarioAplicacionId");
 
-                    b.ToTable("KardexInventarios");
+                    b.ToTable("KardexInventarios", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.Marca", b =>
@@ -533,7 +533,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Marcas");
+                    b.ToTable("Marcas", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.Orden", b =>
@@ -603,7 +603,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("UsuarioAplicacionId");
 
-                    b.ToTable("Ordenes");
+                    b.ToTable("Ordenes", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.OrdenDetalle", b =>
@@ -632,7 +632,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("ProductoId");
 
-                    b.ToTable("OrdenDetalles");
+                    b.ToTable("OrdenDetalles", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.Producto", b =>
@@ -682,7 +682,7 @@ namespace SistemaInventario.AccesoDatos.Migrations
 
                     b.HasIndex("PadreId");
 
-                    b.ToTable("Productos");
+                    b.ToTable("Productos", (string)null);
                 });
 
             modelBuilder.Entity("SistemaInventario.Modelos.UsuarioAplicacion", b =>
